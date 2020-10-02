@@ -1,7 +1,7 @@
 //Big O notation
 //"How quickly runtime grows relative to input(n), as input gets arbitarily large"
 //O(n) => Our runtime grows on the order of size of input
-//O(n) => Our runtime grows on the order of square of size of input
+//O(n^2) => Our runtime grows on the order of square of size of input
 
 #include<iostream>
 #include<vector>
